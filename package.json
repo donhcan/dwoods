@@ -1,0 +1,33 @@
+{
+    "name": "haiper",
+    "version": "1.8.0",
+    "description": "Haiper - React Next Online Banking & Payment Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "export": "next export"
+    },
+    "author": "EnvyTheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "isomorphic-fetch": "^3.0.0",
+        "next": "^12.0.4",
+        "nodemailer": "^6.4.17",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "react": "^16.14.0",
+        "react-accessible-accordion": "^3.3.3",
+        "react-dom": "^16.14.0",
+        "react-hook-form": "^6.14.0",
+        "react-image-lightbox": "^5.1.1",
+        "react-modal-video": "^1.2.6",
+        "react-owl-carousel3": "^2.2.5",
+        "react-visibility-sensor": "^5.1.1",
+        "react-wow": "^1.0.0",
+        "sass": "^1.32.0",
+        "sweetalert2": "^10.12.7",
+        "sweetalert2-react-content": "^3.2.2"
+    }
+}

@@ -1,0 +1,13 @@
+.button-block-div{
+  display:flex;
+  align-items: center;
+}
+
+.text-block{
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-top: 10px;
+  color: #333091;
+  font-size: 20px;
+  font-weight: 400;
+}
